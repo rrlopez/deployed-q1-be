@@ -1,0 +1,10 @@
+<products>
+	<product>
+		<name>Mirror</name>
+		<price>$30</price>
+	</product>
+	<product>
+		<name>Natural Ring</name>
+		<price>$130</price>
+	</product>
+</products>
